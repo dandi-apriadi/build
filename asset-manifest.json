@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.222374f6.css",
+    "main.js": "/static/js/main.12dba26e.js",
+    "static/media/poli.png": "/static/media/poli.a667a98f57666984e6a6.png",
+    "static/media/gedung.png": "/static/media/gedung.b6147eb07cd0ec4e9e5f.png",
+    "index.html": "/index.html",
+    "static/media/checked.svg": "/static/media/checked.eebdda355aff27593261.svg",
+    "main.222374f6.css.map": "/static/css/main.222374f6.css.map",
+    "main.12dba26e.js.map": "/static/js/main.12dba26e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.222374f6.css",
+    "static/js/main.12dba26e.js"
+  ]
+}
